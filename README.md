@@ -1,5 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey%20there%20%F0%9F%91%8B%2C%20I%E2%80%99m%20Aarya%20Tupe%20%E2%80%94%20nice%20to%20meet%20you!;Energy%20Analyst%20focused%20on%20sustainable%20solutions%20in%20NYC;MS%20in%20Computer%20Science%20Graduate%202025;ML%20researcher%20passionate%20about%20solving%20real-world%20challenges;Ask%20me%20about%20LLMs%2C%20RAGs%2C%20Vector%20DBs;Currently%20leveling%20up%20in%20AWS%20%26%20Cloud%20Infrastructure)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aarya+Tupe+%F0%9F%91%8B;MS+in+CS+from+Binghamton+University+%7C+Energy+Analyst+in+NYC;ML+Researcher+with+a+knack+for+solving+real-world+problems.;Ask+me+about+LLMs%2C+RAGs%2C+Vector+DBs.;Currently+diving+deep+into+AWS+%26+Cloud+Infrastructure!)
+
 
 
 <!--
