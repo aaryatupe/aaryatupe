@@ -5,7 +5,7 @@
 
 ### About me:
 I'm a Data & ML Enthusiast with a Master's in Computer Science from Binghamton University.  
-Currently working as an Energy Analyst in NYC, where I solve real-world problems at the intersection of data, compliance, and sustainability.
+Currently working as an Energy Analyst at Bright Power in NYC, where I solve real-world problems at the intersection of data, compliance, and sustainability.
 
 
 ### My Developer Toolkit:  
