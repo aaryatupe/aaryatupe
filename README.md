@@ -1,5 +1,6 @@
-## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aarya+Tupe.;MS+in+CS+%7C+Energy+Analyst+%7C+ML+Researcher.;Ask+me+about+LLMs%2C+RAGs%2C+Vector+DBs+%7C+Learning+Cloud+%26+AWS.)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aarya+Tupe+%F0%9F%91%8B;MS+in+CS+from+Binghamton+University+%7C+Energy+Analyst+in+NYC;ML+Researcher+with+a+knack+for+solving+real-world+problems.;Ask+me+about+LLMs%2C+RAGs%2C+Vector+DBs.;Currently+diving+deep+into+AWS+%26+Cloud+Infrastructure!)
+
 
 <!--
 **aaryatupe/aaryatupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
